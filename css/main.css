@@ -1,0 +1,16 @@
+#semilla{
+	height: 320px;
+  background-image: url('../img/semilla.jpg');
+}
+#piefoto{
+	width: 840px;
+	padding: 35px;
+	margin: 0 auto ;
+}
+.servicios{
+	display: flex;
+	flex-wrap: wrap;
+}
+.icon{
+	width: 30%;
+}
