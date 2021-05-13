@@ -13,6 +13,7 @@
 }
 .icon{
 	width: 30%;
+	margin: 5px;
 }
 .container-flow{
 	margin-top: 20px;
@@ -26,6 +27,34 @@
 	margin-left: -15px;
 
 }
-.met{
-	
+.metodologia{
+	margin: 105px auto;
+  color: white;
+}
+.servicios-container{
+	margin: 30px auto;
+	width: 80%;
+}
+h3{
+	margin: 10px 0px;
+}
+.proyecto{
+	padding: 50px;
+	color: white;
+}
+.chicas{
+	border-radius: 50%;
+}
+.rs{
+	margin: 5px;
+  width: 45px;
+}
+#pieiz{
+	text-align: start;
+}
+#pieder{
+	text-align: end;
+}
+.com{
+	width: 130px;
 }
